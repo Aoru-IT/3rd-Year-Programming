@@ -1,0 +1,67 @@
+D:\Downloads\OneDrive_1_9-30-2024\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\OneDrive_1_9-30-2024\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.AssemblyInfoInputs.cache
+D:\Downloads\OneDrive_1_9-30-2024\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.AssemblyInfo.cs
+D:\Downloads\OneDrive_1_9-30-2024\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive_1_9-30-2024\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\OneDrive_1_9-30-2024\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.RazorAssemblyInfo.cache
+D:\Downloads\OneDrive_1_9-30-2024\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.RazorAssemblyInfo.cs
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.AssemblyInfoInputs.cache
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.AssemblyInfo.cs
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.csproj.CoreCompileInputs.cache
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.RazorAssemblyInfo.cache
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.RazorAssemblyInfo.cs
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\appsettings.json
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.staticwebassets.runtime.json
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.exe
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.deps.json
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.runtimeconfig.json
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.dll
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.pdb
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets\msbuild.Alonzo_EA6Part2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets\msbuild.build.Alonzo_EA6Part2.props
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Alonzo_EA6Part2.props
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Alonzo_EA6Part2.props
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\scopedcss\bundle\Alonzo_EA6Part2.styles.css
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\scopedcss\projectbundle\Alonzo_EA6Part2.bundle.scp.css
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.dll
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\refint\Alonzo_EA6Part2.dll
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.pdb
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.genruntimeconfig.cache
+C:\Users\Jonnette M. Alonzo\Downloads\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\ref\Alonzo_EA6Part2.dll
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\appsettings.json
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.staticwebassets.runtime.json
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.exe
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.deps.json
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.runtimeconfig.json
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.dll
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\bin\Debug\net8.0\Alonzo_EA6Part2.pdb
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.AssemblyInfoInputs.cache
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.AssemblyInfo.cs
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.csproj.CoreCompileInputs.cache
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.RazorAssemblyInfo.cache
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.RazorAssemblyInfo.cs
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets\msbuild.Alonzo_EA6Part2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets\msbuild.build.Alonzo_EA6Part2.props
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Alonzo_EA6Part2.props
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Alonzo_EA6Part2.props
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\scopedcss\bundle\Alonzo_EA6Part2.styles.css
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\scopedcss\projectbundle\Alonzo_EA6Part2.bundle.scp.css
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.dll
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\refint\Alonzo_EA6Part2.dll
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.pdb
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\Alonzo_EA6Part2.genruntimeconfig.cache
+D:\Downloads\Alonzo_EA6\Alonzo_EA6\Alonzo_EA6Part2\Alonzo_EA6Part2\obj\Debug\net8.0\ref\Alonzo_EA6Part2.dll

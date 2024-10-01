@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model Alonzo_EA6Part2.Models.Orders
+}
+<h2>Order Summary:</h2>
+<p>Subtotal: <b>₱@ViewBag.Subtotal</b></p>
+<p>Discount: <b>₱@ViewBag.Discount</b></p>
+<p>Total: <b>₱@ViewBag.Total</b></p>
+<br />
+
+<h2>Order Details:</h2>
+<p>@Html.Raw(Model.displayOrderQuantity)</p>
+
+
+<a asp-action="Index">Try Again</a>

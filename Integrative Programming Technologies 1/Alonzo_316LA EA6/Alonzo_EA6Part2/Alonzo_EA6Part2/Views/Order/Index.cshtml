@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model Alonzo_EA6Part2.Models.Orders
+
+}
+<h1>Orders</h1>
+<br />
+<form asp-action="Calculate" method="post">
+    <div>
+        <label>Fries:</label>
+        <input asp-for="friesQty" required/>
+    </div>
+    <div>
+        <label>Burger:</label>
+        <input asp-for="burgerQty" required/>
+    </div>
+    <div>
+        <label>Spaghetti:</label>
+        <input asp-for="spaghettiQty" required/>
+    </div>
+    <div>
+        <label>Drinks:</label>
+        <input asp-for="drinksQty" required/>
+    </div>
+    <div>
+        <label>Chicken:</label>
+        <input asp-for="chickenQty" required/>
+    </div>
+    <div>
+        <label>Discount:</label>
+        <select asp-for="SelectedDiscount">
+            <option>None</option>
+            <option>Senior/PWD 20%</option>
+            <option>Manager 25%</option>
+            <option>Member 10%</option>
+        </select>
+    </div>
+    <br />
+    <button type="submit">Calculate</button>
+</form>
