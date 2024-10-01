@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ABC Loans</string>
+    <string name="email_address">Email Address:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="password">Password:</string>
+    <string name="welcome_login_message">Welcome! Please log in.</string>
+    <string name="don_t_have_account_message">Don\'t have an account?</string>
+    <string name="basic_monthly_salary">Basic Monthly Salary:</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="logged_in_message">Glad to see you,</string>
+    <string name="loan_calculator">Loan Calculator</string>
+    <string name="loan_amount">Loan Amount:</string>
+    <string name="loan_s_number_of_months">Loan\'s number of months:</string>
+    <string name="x_required">X Required</string>
+    <string name="email_doesn_t_exist">Email doesn\'t exist!</string>
+    <string name="incorrect_password">Incorrect Password!</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="interest_rate">Interest Rate:</string>
+    <string name="password_too_short">Password must be at least 8 characters long.</string>
+    <string name="email_already_exists">Email already exists</string>
+    <string name="can_only_contain_letters">can only contain letters</string>
+</resources>

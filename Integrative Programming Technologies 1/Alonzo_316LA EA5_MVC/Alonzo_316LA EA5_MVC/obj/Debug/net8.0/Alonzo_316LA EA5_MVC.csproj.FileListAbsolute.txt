@@ -1,0 +1,60 @@
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.AssemblyInfoInputs.cache
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.AssemblyInfo.cs
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.csproj.CoreCompileInputs.cache
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.RazorAssemblyInfo.cache
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.RazorAssemblyInfo.cs
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\appsettings.json
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.staticwebassets.runtime.json
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.exe
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.deps.json
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.runtimeconfig.json
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.dll
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.pdb
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets\msbuild.Alonzo_316LA EA5_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Alonzo_316LA EA5_MVC.props
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Alonzo_316LA EA5_MVC.props
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Alonzo_316LA EA5_MVC.props
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\scopedcss\bundle\Alonzo_316LA EA5_MVC.styles.css
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\scopedcss\projectbundle\Alonzo_316LA EA5_MVC.bundle.scp.css
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.dll
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\refint\Alonzo_316LA EA5_MVC.dll
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.pdb
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.genruntimeconfig.cache
+D:\Downloads\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\ref\Alonzo_316LA EA5_MVC.dll
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\appsettings.Development.json
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\appsettings.json
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.staticwebassets.runtime.json
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.exe
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.deps.json
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.runtimeconfig.json
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.dll
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\bin\Debug\net8.0\Alonzo_316LA EA5_MVC.pdb
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.AssemblyInfoInputs.cache
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.AssemblyInfo.cs
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.csproj.CoreCompileInputs.cache
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.RazorAssemblyInfo.cache
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.RazorAssemblyInfo.cs
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets.build.json
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets.development.json
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets\msbuild.Alonzo_316LA EA5_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Alonzo_316LA EA5_MVC.props
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Alonzo_316LA EA5_MVC.props
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Alonzo_316LA EA5_MVC.props
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\staticwebassets.pack.json
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\scopedcss\bundle\Alonzo_316LA EA5_MVC.styles.css
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\scopedcss\projectbundle\Alonzo_316LA EA5_MVC.bundle.scp.css
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.dll
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\refint\Alonzo_316LA EA5_MVC.dll
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.pdb
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\Alonzo_316LA EA5_MVC.genruntimeconfig.cache
+F:\BIT33 Assessments\1st Semester\S-ITPC316\Projects\Alonzo_316LA EA5_MVC\Alonzo_316LA EA5_MVC\obj\Debug\net8.0\ref\Alonzo_316LA EA5_MVC.dll

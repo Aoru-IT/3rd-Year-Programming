@@ -1,0 +1,10 @@
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\bin\Debug\Alonzo_EA4.exe.config
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\bin\Debug\Alonzo_EA4.exe
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\bin\Debug\Alonzo_EA4.pdb
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\obj\Debug\Alonzo_EA4.csproj.AssemblyReference.cache
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\obj\Debug\Alonzo_EA4.Form1.resources
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\obj\Debug\Alonzo_EA4.Properties.Resources.resources
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\obj\Debug\Alonzo_EA4.csproj.GenerateResource.cache
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\obj\Debug\Alonzo_EA4.csproj.CoreCompileInputs.cache
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\obj\Debug\Alonzo_EA4.exe
+D:\BIT33\Alonzo_EA4\Alonzo_EA4\obj\Debug\Alonzo_EA4.pdb

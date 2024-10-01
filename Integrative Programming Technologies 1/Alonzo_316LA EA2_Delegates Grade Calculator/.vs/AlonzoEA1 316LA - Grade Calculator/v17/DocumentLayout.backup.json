@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzoea1 316la - delegates grade calculator\\alonzoea1 316la - grade calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|solutionrelative:alonzoea1 316la - grade calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\alonzoea1 316la - grade calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|solutionrelative:alonzoea1 316la - grade calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\alonzoea1 316la - grade calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|solutionrelative:alonzoea1 316la - grade calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "RelativeToolTip": "AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:59:29.428Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "AlonzoEA1 316LA - Grade Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:53:15.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "AlonzoEA1 316LA - Grade Calculator\\Calculator.cs",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\AlonzoEA1 316LA - Delegates Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Calculator.cs",
+              "RelativeToolTip": "AlonzoEA1 316LA - Grade Calculator\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:07:57.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

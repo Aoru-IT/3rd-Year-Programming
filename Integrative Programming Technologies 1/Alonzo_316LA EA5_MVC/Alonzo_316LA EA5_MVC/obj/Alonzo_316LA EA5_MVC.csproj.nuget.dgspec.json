@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj": {}
+  },
+  "projects": {
+    "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj",
+        "projectName": "Alonzo_316LA EA5_MVC",
+        "projectPath": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj",
+        "packagesPath": "C:\\Users\\earla\\.nuget\\packages\\",
+        "outputPath": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\earla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

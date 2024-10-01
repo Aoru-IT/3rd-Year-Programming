@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Student>
+  <Student>
+    <ID>202230182</ID>
+    <LastName>Alonzo</LastName>
+    <FirstName>Earl Lawrence</FirstName>
+    <Course>BIT33</Course>
+    <Units>23</Units>
+    <PartialFee>11500</PartialFee>
+    <Discount>575</Discount>
+    <TotalFee>10925</TotalFee>
+  </Student>
+  <Student>
+    <ID>202231459</ID>
+    <LastName>Castillo</LastName>
+    <FirstName>Antonio</FirstName>
+    <Course>BIT33</Course>
+    <Units>27</Units>
+    <PartialFee>13500</PartialFee>
+    <Discount>945.00000000000011</Discount>
+    <TotalFee>12555</TotalFee>
+  </Student>
+</Student>

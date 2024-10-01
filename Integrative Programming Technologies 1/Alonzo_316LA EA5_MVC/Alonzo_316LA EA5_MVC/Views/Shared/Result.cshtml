@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model Alonzo_316LA_EA5_MVC.Models.Student
+}
+<h2>Calculation Result</h2>
+<p>Last Name: <b>@Model.LastName</b></p>
+<p>First Name: <b>@Model.FirstName</b></p>
+<p>Section: <b>@Model.Section</b></p>
+<p>Average Grade: <b>@ViewBag.Average</b></p>
+<p>Remark: <b>@Model.Remarks</b>    </p>
+
+<a asp-action="Index">Go Back</a>

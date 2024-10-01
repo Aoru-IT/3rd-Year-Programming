@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model Alonzo_316LA_EA5_MVC.Models.Student
+}
+<h1>Grade Calculator</h1><br />
+<h2>Student Information</h2>
+<form asp-action="Calculate" method="post">
+    <div>
+        <label>Last Name:</label>
+        <input asp-for="LastName" />
+    </div>
+    <div>
+        <label>First Name:</label>
+        <input asp-for="FirstName" />
+    </div>
+    <div>
+        <label>Section:</label>
+        <input asp-for="Section" />
+    </div><br />
+
+ <h2>Subject Grades</h2>
+    <div>
+        <label>Integrative Programming:</label>
+        <input asp-for="integProgGrade" />
+    </div>
+    <div>
+        <label>Web Development:</label>
+        <input asp-for="webDevGrade" />
+    </div>
+    <div>
+        <label>Mobile Enterprise Systems:</label>
+        <input asp-for="mobileEnterpGrade" />
+    </div>
+    <div>
+        <label>Information Security:</label>
+        <input asp-for="infoSecGrade" />
+    </div>
+    <div>
+        <label>Networking 2:</label>
+        <input asp-for="network2Grade" />
+    </div>
+    <div>
+        <label>Contemporary World:</label>
+        <input asp-for="contempoGrade" />
+    </div><br />
+    <button type="submit">Calculate</button>
+</form>
+

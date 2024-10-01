@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\alonzoea1 316la - grade calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|solutionrelative:alonzoea1 316la - grade calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|f:\\archives\\the zone (my workspace)\\assessments\\alonzoea1 316la - grade calculator\\alonzoea1 316la - grade calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|solutionrelative:alonzoea1 316la - grade calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\alonzoea1 316la - grade calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|solutionrelative:alonzoea1 316la - grade calculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\alonzoea1 316la - grade calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64526202-CF8E-4C15-9E35-1467EBB0FE94}|AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator.csproj|solutionrelative:alonzoea1 316la - grade calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "ToolTip": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "AlonzoEA1 316LA - Grade Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:53:15.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AlonzoEA1 316LA - Grade Calculator\\Form1.Designer.cs",
+              "ToolTip": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.Designer.cs",
+              "RelativeToolTip": "AlonzoEA1 316LA - Grade Calculator\\Form1.Designer.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAqwNAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:05:59.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "AlonzoEA1 316LA - Grade Calculator\\Program.cs",
+              "ToolTip": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Program.cs",
+              "RelativeToolTip": "AlonzoEA1 316LA - Grade Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:05:15.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "ToolTip": "F:\\Archives\\The Zone (My Workspace)\\Assessments\\AlonzoEA1 316LA - Grade Calculator\\AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "RelativeToolTip": "AlonzoEA1 316LA - Grade Calculator\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:59:29.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

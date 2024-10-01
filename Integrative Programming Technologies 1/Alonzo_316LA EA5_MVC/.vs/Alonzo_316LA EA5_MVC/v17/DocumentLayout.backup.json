@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\views\\shared\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\views\\shared\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|f:\\bit33 assessments\\1st semester\\s-itpc316\\projects\\alonzo_316la ea5_mvc\\alonzo_316la ea5_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EDCF476-3618-432D-BC3D-FE6033FC20C1}|Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj|solutionrelative:alonzo_316la ea5_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alonzo_316LA EA5_MVC.csproj",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T11:30:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\Shared\\Result.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Views\\Shared\\Result.cshtml",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\Shared\\Result.cshtml",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Views\\Shared\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T10:03:36.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Views\\Student\\Index.cshtml",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T10:02:06.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:58:00.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:56:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Models\\Student.cs",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Models\\Student.cs",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:56:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:01:28.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Program.cs",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Program.cs",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:07:45.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T10:02:02.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T10:24:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_316LA EA5_MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\BIT33 Assessments\\1st Semester\\S-ITPC316\\Projects\\Alonzo_316LA EA5_MVC\\Alonzo_316LA EA5_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Alonzo_316LA EA5_MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T10:24:55.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

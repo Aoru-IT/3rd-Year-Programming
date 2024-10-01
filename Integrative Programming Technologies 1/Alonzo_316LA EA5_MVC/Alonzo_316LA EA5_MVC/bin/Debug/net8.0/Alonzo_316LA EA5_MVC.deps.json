@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Alonzo_316LA EA5_MVC/1.0.0": {
+        "runtime": {
+          "Alonzo_316LA EA5_MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alonzo_316LA EA5_MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

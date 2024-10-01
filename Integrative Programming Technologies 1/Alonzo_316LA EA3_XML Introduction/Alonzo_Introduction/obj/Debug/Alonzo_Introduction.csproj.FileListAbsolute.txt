@@ -1,0 +1,10 @@
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\bin\Debug\Alonzo_Introduction.exe.config
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\bin\Debug\Alonzo_Introduction.exe
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\bin\Debug\Alonzo_Introduction.pdb
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\obj\Debug\Alonzo_Introduction.csproj.AssemblyReference.cache
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\obj\Debug\Alonzo_Introduction.Form1.resources
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\obj\Debug\Alonzo_Introduction.Properties.Resources.resources
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\obj\Debug\Alonzo_Introduction.csproj.GenerateResource.cache
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\obj\Debug\Alonzo_Introduction.csproj.CoreCompileInputs.cache
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\obj\Debug\Alonzo_Introduction.exe
+D:\BIT33\Alonzo_Introduction\Alonzo_Introduction\obj\Debug\Alonzo_Introduction.pdb

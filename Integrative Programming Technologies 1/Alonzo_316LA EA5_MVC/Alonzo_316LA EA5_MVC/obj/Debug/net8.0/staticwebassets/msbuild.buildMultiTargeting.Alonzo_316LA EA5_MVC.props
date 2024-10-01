@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Alonzo_316LA EA5_MVC.props" />
+</Project>

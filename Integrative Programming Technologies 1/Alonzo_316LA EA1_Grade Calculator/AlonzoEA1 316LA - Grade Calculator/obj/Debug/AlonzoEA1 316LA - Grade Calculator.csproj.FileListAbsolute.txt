@@ -1,0 +1,10 @@
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\bin\Debug\AlonzoEA1 316LA - Grade Calculator.exe.config
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\bin\Debug\AlonzoEA1 316LA - Grade Calculator.exe
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\bin\Debug\AlonzoEA1 316LA - Grade Calculator.pdb
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\obj\Debug\AlonzoEA1 316LA - Grade Calculator.csproj.AssemblyReference.cache
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\obj\Debug\AlonzoEA1_316LA___Grade_Calculator.Form1.resources
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\obj\Debug\AlonzoEA1_316LA___Grade_Calculator.Properties.Resources.resources
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\obj\Debug\AlonzoEA1 316LA - Grade Calculator.csproj.GenerateResource.cache
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\obj\Debug\AlonzoEA1 316LA - Grade Calculator.csproj.CoreCompileInputs.cache
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\obj\Debug\AlonzoEA1 316LA - Grade Calculator.exe
+F:\Archives\The Zone (My Workspace)\Assessments\AlonzoEA1 316LA - Grade Calculator\AlonzoEA1 316LA - Grade Calculator\obj\Debug\AlonzoEA1 316LA - Grade Calculator.pdb
