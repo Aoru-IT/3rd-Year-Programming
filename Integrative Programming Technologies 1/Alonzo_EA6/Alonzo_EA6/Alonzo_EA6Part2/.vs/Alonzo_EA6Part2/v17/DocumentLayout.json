@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Downloads\\Alonzo_EA6\\Alonzo_EA6\\Alonzo_EA6Part2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|d:\\downloads\\alonzo_ea6\\alonzo_ea6\\alonzo_ea6part2\\alonzo_ea6part2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|solutionrelative:alonzo_ea6part2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|d:\\downloads\\alonzo_ea6\\alonzo_ea6\\alonzo_ea6part2\\alonzo_ea6part2\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|solutionrelative:alonzo_ea6part2\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|d:\\downloads\\alonzo_ea6\\alonzo_ea6\\alonzo_ea6part2\\alonzo_ea6part2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|solutionrelative:alonzo_ea6part2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|d:\\downloads\\alonzo_ea6\\alonzo_ea6\\alonzo_ea6part2\\alonzo_ea6part2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|solutionrelative:alonzo_ea6part2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7D03D3E-10F4-4AFC-AB02-FC266BB48B45}|Alonzo_EA6Part2\\Alonzo_EA6Part2.csproj|d:\\downloads\\alonzo_ea6\\alonzo_ea6\\alonzo_ea6part2\\alonzo_ea6part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:07:48.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:07:48.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Downloads\\Alonzo_EA6\\Alonzo_EA6\\Alonzo_EA6Part2\\Alonzo_EA6Part2\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "Alonzo_EA6Part2\\Views\\Order\\Index.cshtml",
@@ -88,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Orders.cs",
               "DocumentMoniker": "D:\\Downloads\\Alonzo_EA6\\Alonzo_EA6\\Alonzo_EA6Part2\\Alonzo_EA6Part2\\Models\\Orders.cs",
               "RelativeDocumentMoniker": "Alonzo_EA6Part2\\Models\\Orders.cs",
               "ToolTip": "D:\\Downloads\\Alonzo_EA6\\Alonzo_EA6\\Alonzo_EA6Part2\\Alonzo_EA6Part2\\Models\\Orders.cs",
               "RelativeToolTip": "Alonzo_EA6Part2\\Models\\Orders.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T07:17:04.432Z",
               "EditorCaption": ""
@@ -109,8 +108,7 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T02:33:43.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:33:43.497Z"
             },
             {
               "$type": "Document",
@@ -122,12 +120,11 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T06:51:02.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T06:51:02.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Downloads\\Alonzo_EA6\\Alonzo_EA6\\Alonzo_EA6Part2\\Alonzo_EA6Part2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Alonzo_EA6Part2\\Views\\Home\\Index.cshtml",
@@ -135,12 +132,11 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T07:07:16.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T07:07:16.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Downloads\\Alonzo_EA6\\Alonzo_EA6\\Alonzo_EA6Part2\\Alonzo_EA6Part2\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Alonzo_EA6Part2\\Models\\ErrorViewModel.cs",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T02:34:04.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:34:04.865Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T11:40:35.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T11:40:35.614Z"
             },
             {
               "$type": "Document",
@@ -174,8 +168,7 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Views\\Shared\\Result.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T02:12:28.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:12:28.469Z"
             },
             {
               "$type": "Document",
@@ -187,8 +180,7 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T11:55:55.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T11:55:55.563Z"
             },
             {
               "$type": "Document",
@@ -200,8 +192,7 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T11:18:39.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T11:18:39.884Z"
             },
             {
               "$type": "Document",
@@ -213,8 +204,7 @@
               "RelativeToolTip": "Alonzo_EA6Part2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:03:06.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:03:06.844Z"
             }
           ]
         }

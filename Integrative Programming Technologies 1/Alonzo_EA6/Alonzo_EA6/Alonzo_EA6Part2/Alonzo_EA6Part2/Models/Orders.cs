@@ -26,7 +26,7 @@ namespace Alonzo_EA6Part2.Models
         public decimal DiscountComputation()
         {
             decimal discount = 0;
-            if(SelectedDiscount == "Manager 25)")
+            if(SelectedDiscount == "Manager 25%")
             {
                 discount = 0.25M;
             }
