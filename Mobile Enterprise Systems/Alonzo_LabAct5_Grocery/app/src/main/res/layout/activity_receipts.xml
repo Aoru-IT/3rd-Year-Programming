@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background_receipts"
+    tools:context=".ReceiptsActivity">
+
+    <Button
+        android:id="@+id/btnGetReceipt"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FAE92D"
+        android:fontFamily="@font/lexend_semibold"
+        android:onClick="clickReturn"
+        android:text="Return"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:cornerRadius="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.895" />
+
+    <TextView
+        android:id="@+id/textTotal"
+        android:layout_width="250dp"
+        android:layout_height="32dp"
+        android:fontFamily="@font/lexend_semibold"
+        android:text="Price Total:"
+        android:textAlignment="center"
+        android:textColor="#1B9DEE"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.802" />
+
+    <TextView
+        android:id="@+id/textItemNames"
+        android:layout_width="110dp"
+        android:layout_height="395dp"
+        android:fontFamily="@font/lexend"
+        android:text=""
+        android:textAlignment="center"
+        android:textColor="#1B9DEE"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.215"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.594" />
+
+    <TextView
+        android:id="@+id/textPrices"
+        android:layout_width="70dp"
+        android:layout_height="395dp"
+        android:fontFamily="@font/lexend"
+        android:text=""
+        android:textAlignment="center"
+        android:textColor="#1B9DEE"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.805"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.592" />
+
+    <TextView
+        android:id="@+id/textQuantities"
+        android:layout_width="25dp"
+        android:layout_height="395dp"
+        android:fontFamily="@font/lexend"
+        android:text=""
+        android:textAlignment="center"
+        android:textColor="#1B9DEE"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.606"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.592" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
