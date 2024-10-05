@@ -13,7 +13,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class ReceiptsActivity extends AppCompatActivity {
 
-    TextView itemNames, itemPrices, itemQuantities, total;
+    TextView itemNames, itemPrices, itemQuantities, itemAmounts, total;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,11 +29,13 @@ public class ReceiptsActivity extends AppCompatActivity {
         itemNames = (TextView) findViewById(R.id.textItemNames);
         itemPrices = (TextView) findViewById(R.id.textPrices);
         itemQuantities = (TextView) findViewById(R.id.textQuantities);
+        itemAmounts = (TextView) findViewById(R.id.textAmounts);
         total = (TextView) findViewById(R.id.textTotal);
 
         itemNames.setText(computations.getNameReceipt());
         itemPrices.setText(computations.getPriceReceipt());
         itemQuantities.setText(computations.getQuantityReceipt());
+        itemAmounts.setText(computations.getAmountsReceipt());
         total.setText(String.format("Price Total: %s", computations.getTotal()));
 
     }

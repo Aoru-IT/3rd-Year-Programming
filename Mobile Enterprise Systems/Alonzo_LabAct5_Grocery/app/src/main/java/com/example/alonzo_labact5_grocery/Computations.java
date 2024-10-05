@@ -7,16 +7,19 @@ public class Computations {
     public ArrayList<String> itemNames;
     public ArrayList<Double> prices;
     public ArrayList<Integer> quantities;
+    public ArrayList<Double> amounts;
 
     public String nameReceipt;
     public String priceReceipt;
     public String quantityReceipt;
+    public String amountsReceipt;
     public Double priceTotal;
 
     public Computations(){
         itemNames = new ArrayList<>();
         prices = new ArrayList<>();
         quantities = new ArrayList<>();
+        amounts = new ArrayList<>();
         nameReceipt = "";
         priceReceipt = "";
         quantityReceipt = "";
@@ -35,12 +38,14 @@ public class Computations {
             int index = itemNames.indexOf(itemName);
             prices.set(index, price);
             quantities.set(index, quantity);
+            amounts.set(index, quantity * price);
             return;
         }
 
         itemNames.add(itemName);
         prices.add(price);
         quantities.add(quantity);
+        amounts.add(quantity * price);
     }
 
     public boolean isAlreadyAdded(String itemName){
@@ -51,18 +56,20 @@ public class Computations {
         StringBuilder namesList = new StringBuilder();
         StringBuilder pricesList = new StringBuilder();
         StringBuilder quantityList = new StringBuilder();
+        StringBuilder amountList = new StringBuilder();
 
         for(String item: itemNames){
-            namesList.append(item).append("\n");
+            namesList.append(item).append("\n\n");
             int itemIndex = itemNames.indexOf(item);
-            pricesList.append(prices.get(itemIndex)).append("\n");
-            quantityList.append(quantities.get(itemIndex)).append("\n");
+            pricesList.append(prices.get(itemIndex)).append("\n\n");
+            quantityList.append(quantities.get(itemIndex)).append("\n\n");
+            amountList.append(amounts.get(itemIndex)).append("\n\n");
         }
 
         nameReceipt = namesList.toString();
         priceReceipt = pricesList.toString();
         quantityReceipt = quantityList.toString();
-
+        amountsReceipt = amountList.toString();
     }
 
     public void setTotal(){
@@ -75,7 +82,8 @@ public class Computations {
 
     public String getNameReceipt(){ return nameReceipt;}
     public String getPriceReceipt() { return priceReceipt;}
-    public String getQuantityReceipt() {return quantityReceipt;}
+    public String getQuantityReceipt() { return quantityReceipt;}
+    public String getAmountsReceipt() { return amountsReceipt;}
     public Double getTotal(){ setTotal(); return priceTotal;}
 
     public boolean isItemListEmpty(){
@@ -86,5 +94,6 @@ public class Computations {
         itemNames.clear();
         prices.clear();
         quantities.clear();
+        amounts.clear();
     }
 }
