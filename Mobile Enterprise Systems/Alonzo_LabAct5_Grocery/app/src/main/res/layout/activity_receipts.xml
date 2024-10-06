@@ -53,7 +53,7 @@
         android:textSize="13.5sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.582"
+        app:layout_constraintHorizontal_bias="0.592"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.592" />
@@ -63,19 +63,19 @@
         android:layout_width="205sp"
         android:layout_height="395dp"
         android:fontFamily="@font/lexend"
-        android:textAlignment="textStart"
+        android:textAlignment="center"
         android:textColor="#1B9DEE"
         android:textSize="13.5sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.077"
+        app:layout_constraintHorizontal_bias="0.0767"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.592" />
 
     <TextView
         android:id="@+id/textPrices"
-        android:layout_width="64dp"
+        android:layout_width="62dp"
         android:layout_height="395dp"
         android:fontFamily="@font/lexend"
         android:text=""
@@ -84,7 +84,7 @@
         android:textSize="13.5sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.746"
+        app:layout_constraintHorizontal_bias="0.753"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.592" />
