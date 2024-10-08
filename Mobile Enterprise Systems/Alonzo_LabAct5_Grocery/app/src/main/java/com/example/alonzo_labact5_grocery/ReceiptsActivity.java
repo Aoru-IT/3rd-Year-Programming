@@ -11,6 +11,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import java.text.DecimalFormat;
+
 public class ReceiptsActivity extends AppCompatActivity {
 
     TextView itemNames, itemPrices, itemQuantities, itemAmounts, total;
@@ -32,11 +34,12 @@ public class ReceiptsActivity extends AppCompatActivity {
         itemAmounts = (TextView) findViewById(R.id.textAmounts);
         total = (TextView) findViewById(R.id.textTotal);
 
+        DecimalFormat decimal = new DecimalFormat("0.00");
         itemNames.setText(computations.getNameReceipt());
         itemPrices.setText(computations.getPriceReceipt());
         itemQuantities.setText(computations.getQuantityReceipt());
         itemAmounts.setText(computations.getAmountsReceipt());
-        total.setText(String.format("Price Total: %s", computations.getTotal()));
+        total.setText(String.format("Price Total: Php %s", decimal.format(computations.getTotal())));
 
     }
 

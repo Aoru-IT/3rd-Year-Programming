@@ -1,5 +1,6 @@
 package com.example.alonzo_labact5_grocery;
 
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 
 public class Computations {
@@ -57,13 +58,13 @@ public class Computations {
         StringBuilder pricesList = new StringBuilder();
         StringBuilder quantityList = new StringBuilder();
         StringBuilder amountList = new StringBuilder();
-
+        DecimalFormat decimal = new DecimalFormat("0.00");
         for(String item: itemNames){
             namesList.append(item).append("\n\n");
             int itemIndex = itemNames.indexOf(item);
-            pricesList.append(prices.get(itemIndex)).append("\n\n");
+            pricesList.append(decimal.format(prices.get(itemIndex))).append("\n\n");
             quantityList.append(quantities.get(itemIndex)).append("\n\n");
-            amountList.append(amounts.get(itemIndex)).append("\n\n");
+            amountList.append(decimal.format(amounts.get(itemIndex))).append("\n\n");
         }
 
         nameReceipt = namesList.toString();
