@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <!-- Employee ID -->
+    <TextView
+        android:id="@+id/tvEmployeeID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Employee ID"
+        android:textSize="10sp" />
+
+    <!-- Loan Type -->
+    <TextView
+        android:id="@+id/tvLoanType"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Loan Type:"
+        android:paddingLeft="3dp"
+        android:textSize="10sp" />
+
+    <!-- Employee ID -->
+    <TextView
+        android:id="@+id/tvLoanAmount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Loan Amount:"
+        android:textSize="10sp" />
+
+    <!-- Loan Status -->
+    <TextView
+        android:id="@+id/tvLoanStatus"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Loan Status"
+        android:textSize="10sp" />
+
+    <!-- View Button -->
+    <Button
+        android:id="@+id/btnView"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:textSize="10sp"
+        android:text="View" />
+
+</LinearLayout>
+

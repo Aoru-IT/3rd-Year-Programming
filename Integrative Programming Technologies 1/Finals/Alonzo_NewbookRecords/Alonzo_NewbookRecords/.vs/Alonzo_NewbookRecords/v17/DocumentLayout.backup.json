@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Alonzo_NewbookRecords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\records\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\records\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\records\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\records\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\records\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\records\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\records\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\records\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\wwwroot\\images\\add_img.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\wwwroot\\images\\add_img.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\records\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\views\\records\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|d:\\downloads\\alonzo_newbookrecords\\alonzo_newbookrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T07:26:53.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Create.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Records\\Create.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Create.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Records\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T07:13:37.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Program.cs",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Program.cs",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:11:58.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T07:11:49.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:10:17.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Records\\Edit.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Edit.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Records\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:54:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Records\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Index.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Records\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:39:01.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:29:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:55:42.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Models\\Admin.cs",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Models\\Admin.cs",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:00:27.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:54:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Details.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Records\\Details.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Details.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Records\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T09:04:08.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T07:26:55.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "add_img.png -  [English (United States)] - PNG [902x1011, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\wwwroot\\images\\add_img.png",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\wwwroot\\images\\add_img.png",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\wwwroot\\images\\add_img.png -  [English (United States)] - PNG [902x1011, 32 bit, PNG]",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\wwwroot\\images\\add_img.png -  [English (United States)] - PNG [902x1011, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-01T11:40:26.518Z",
+              "EditorCaption": " -  [English (United States)] - PNG [902x1011, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Records\\Delete.cshtml",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Records\\Delete.cshtml",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Records\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T09:04:10.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecordsController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\RecordsController.cs",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Controllers\\RecordsController.cs",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\RecordsController.cs",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Controllers\\RecordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:12:07.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Downloads\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:50:16.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

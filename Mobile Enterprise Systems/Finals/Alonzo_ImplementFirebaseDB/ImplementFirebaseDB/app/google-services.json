@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "858937331984",
+    "firebase_url": "https://implementfirebasedb-b248d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "implementfirebasedb-b248d",
+    "storage_bucket": "implementfirebasedb-b248d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858937331984:android:b18ab2240e929133311595",
+        "android_client_info": {
+          "package_name": "com.example.implementfirebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzUIFa6eQWeBJUuW8KTg31bpWP_bi_sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

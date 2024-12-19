@@ -1,0 +1,92 @@
+﻿@model Alonzo_NewbookRecords.Models.Records
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div style="display: flex; align-items: flex-start; justify-content: center; height: calc(100vh - 100px); gap: 2rem; margin: 0; padding: 0; position: relative;">
+
+    <div style="flex: 1; text-align: center; margin-top: 60px;">
+        <img src="@(Url.Content("~/images/edit_img.png"))" width="540" height="580" alt="Edit Illustration" />
+    </div>
+
+    <div style="flex: 1; max-width: 400px; margin-top: 60px;">
+        <h2 style="font-size: 2rem; color: #2c3e50; margin-bottom: 1rem; text-align: center;">Edit Record</h2>
+        <h3 style="font-size: 1.5rem; color: #1A508B; margin-bottom: 1.5rem; text-align: center;">Update the fields below</h3>
+
+        <form asp-action="Edit" style="padding: 2rem;">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group" style="margin-bottom: 1rem; display: flex; gap: 1rem;">
+                <div style="flex: 1;">
+                    <label asp-for="FirstName" class="control-label" style="color: #1A508B;"></label>
+                    <input asp-for="FirstName" class="form-control" style="padding: 0.5rem; font-size: 1rem;" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div style="flex: 1;">
+                    <label asp-for="LastName" class="control-label" style="color: #1A508B;"></label>
+                    <input asp-for="LastName" class="form-control" style="padding: 0.5rem; font-size: 1rem;" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 1rem; display: flex; gap: 1rem;">
+                <div style="flex: 1;">
+                    <label asp-for="Email" class="control-label" style="color: #1A508B;"></label>
+                    <input asp-for="Email" class="form-control" style="padding: 0.5rem; font-size: 1rem;" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div style="flex: 1;">
+                    <label asp-for="PhoneNumber" class="control-label" style="color: #1A508B;"></label>
+                    <input asp-for="PhoneNumber" class="form-control" style="padding: 0.5rem; font-size: 1rem;" />
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 1rem;">
+                <label asp-for="College" class="control-label" style="color: #1A508B;"></label>
+                <input asp-for="College" class="form-control" style="padding: 0.5rem; font-size: 1rem;" />
+                <span asp-validation-for="College" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 1rem;">
+                <label asp-for="PrelimCheck" class="control-label" style="color: #1A508B;">Prelim Pending?</label>
+                <input asp-for="PrelimCheck" type="checkbox" class="form-check-input" />
+                <span asp-validation-for="PrelimCheck" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 1rem;">
+                <label asp-for="MidtermCheck" class="control-label" style="color: #1A508B;">Midterm Pending?</label>
+                <input asp-for="MidtermCheck" type="checkbox" class="form-check-input" />
+                <span asp-validation-for="MidtermCheck" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 1rem;">
+                <label asp-for="FinalCheck" class="control-label" style="color: #1A508B;">Final Pending?</label>
+                <input asp-for="FinalCheck" type="checkbox" class="form-check-input" />
+                <span asp-validation-for="FinalCheck" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 1rem;">
+                <label asp-for="ScholarCheck" class="control-label" style="color: #1A508B;">Is a Scholar?</label>
+                <input asp-for="ScholarCheck" type="checkbox" class="form-check-input" />
+                <span asp-validation-for="ScholarCheck" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" style="text-align: center;">
+                <input type="submit" value="Save" class="btn btn-primary" style="width: 100%; padding: 0.7rem; font-size: 1.2rem; background-color: #1A508B; color: white; border: none; border-radius: 4px;" />
+            </div>
+            <div style="text-align: center;">
+                <a asp-action="Index" style="color: #1A508B; font-size: 1rem; text-decoration: none; display: inline-block; margin-top: 1rem;">Back to List</a>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

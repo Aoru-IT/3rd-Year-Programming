@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <!-- Employee ID -->
+    <TextView
+        android:id="@+id/tvEmployeeID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Employee ID"
+        android:textSize="10sp" />
+
+    <!-- Loan Type -->
+    <TextView
+        android:id="@+id/tvLastName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="First Name:"
+        android:paddingLeft="10dp"
+        android:textSize="10sp" />
+
+    <!-- Employee ID -->
+    <TextView
+        android:id="@+id/tvFirstName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="LastName:"
+        android:paddingLeft="15dp"
+        android:textSize="10sp" />
+
+    <!-- Loan Status -->
+    <TextView
+        android:id="@+id/tvMiddleInitial"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingLeft="35dp"
+        android:text="Middle Name:"
+        android:textSize="10sp" />
+
+
+    <!-- Loan Status -->
+    <TextView
+        android:id="@+id/tvDateHired"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingLeft="6dp"
+        android:text="Date Hired:"
+        android:textSize="10sp" />
+
+</LinearLayout>
+
