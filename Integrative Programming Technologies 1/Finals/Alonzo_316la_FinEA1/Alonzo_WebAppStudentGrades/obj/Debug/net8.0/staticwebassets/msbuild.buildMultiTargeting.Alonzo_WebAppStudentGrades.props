@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Alonzo_WebAppStudentGrades.props" />
-</Project>
