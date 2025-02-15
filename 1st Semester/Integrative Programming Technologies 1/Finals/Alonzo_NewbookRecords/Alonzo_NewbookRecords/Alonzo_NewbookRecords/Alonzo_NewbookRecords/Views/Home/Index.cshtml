@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model Alonzo_NewbookRecords.Models.Admin
+}
+
+<h1>Login</h1>
+<br />
+<form asp-action="Authenticate" method="post">
+    <div>
+        <label>Username:</label>
+        <input asp-for="inputUser" required />
+    </div>
+    <div>
+        <label>Password:</label>
+        <input asp-for="inputPass" required />
+    </div>
+    
+    <button type="submit">Login</button>
+</form>
