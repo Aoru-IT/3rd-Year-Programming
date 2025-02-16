@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AlonzoDivino_EA2.props" />
+</Project>
