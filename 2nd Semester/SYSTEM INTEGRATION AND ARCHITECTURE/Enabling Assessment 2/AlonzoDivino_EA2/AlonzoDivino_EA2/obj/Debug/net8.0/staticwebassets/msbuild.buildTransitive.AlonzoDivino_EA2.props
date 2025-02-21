@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\AlonzoDivino_EA2.props" />
-</Project>
