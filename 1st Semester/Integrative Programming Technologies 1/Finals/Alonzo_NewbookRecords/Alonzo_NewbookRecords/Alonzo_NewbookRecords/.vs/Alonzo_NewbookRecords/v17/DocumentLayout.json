@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|f:\\github\\3rd year programming\\1st semester\\integrative programming technologies 1\\finals\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|f:\\github\\3rd year programming\\1st semester\\integrative programming technologies 1\\finals\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|f:\\github\\3rd year programming\\1st semester\\integrative programming technologies 1\\finals\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\models\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\models\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|f:\\github\\3rd year programming\\1st semester\\integrative programming technologies 1\\finals\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|solutionrelative:alonzo_newbookrecords\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{508FA19C-4D86-4CB3-AE4A-7766D9F6C631}|Alonzo_NewbookRecords\\Alonzo_NewbookRecords.csproj|f:\\github\\3rd year programming\\1st semester\\integrative programming technologies 1\\finals\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\alonzo_newbookrecords\\views\\records\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -94,20 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Alonzo_NewbookRecords\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T16:09:38.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Records.cs",
               "DocumentMoniker": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Models\\Records.cs",
               "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Models\\Records.cs",
@@ -115,8 +102,7 @@
               "RelativeToolTip": "Alonzo_NewbookRecords\\Models\\Records.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T14:38:32.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T14:38:32.295Z"
             },
             {
               "$type": "Document",
@@ -180,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Home\\Index.cshtml",
@@ -188,12 +174,11 @@
               "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T12:29:08.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T12:29:08.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Views\\Admin\\Index.cshtml",
@@ -201,21 +186,44 @@
               "RelativeToolTip": "Alonzo_NewbookRecords\\Views\\Admin\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:55:42.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T08:55:42.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
               "DocumentMoniker": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Controllers\\AdminController.cs",
               "ToolTip": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Alonzo_NewbookRecords\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T08:50:16.424Z",
+              "WhenOpened": "2024-12-01T08:50:16.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Models\\Admin.cs",
+              "ToolTip": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Models\\Admin.cs",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:00:27.558Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Alonzo_NewbookRecords\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:09:38.696Z"
             },
             {
               "$type": "Document",
@@ -228,19 +236,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T07:13:37.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "Alonzo_NewbookRecords\\Models\\Admin.cs",
-              "ToolTip": "F:\\GitHub\\3rd Year Programming\\1st Semester\\Integrative Programming Technologies 1\\Finals\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Alonzo_NewbookRecords\\Models\\Admin.cs",
-              "RelativeToolTip": "Alonzo_NewbookRecords\\Models\\Admin.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:00:27.558Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
