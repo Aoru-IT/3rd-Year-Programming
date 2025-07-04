@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>GrabEats</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Lexend';
+      background-color: #f7fff8;
+      color: #333;
+      padding: 20px;
+      margin-left: 30px;
+    }
+    h1, h2 {
+      color: green;
+    }
+    fieldset {
+      background-color: white;
+      border: 2px solid green;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+    select {
+      padding: 5px;
+      margin-bottom: 10px;
+    }
+    label {
+      display: block;
+      margin: 10px 0;
+    }
+    input[type="number"] {
+      width: 100px;
+    }
+    .receipt {
+      background: #fff;
+      border: 1px dashed #ccc;
+      padding: 15px;
+      margin-top: 20px;
+    }
+    .btn {
+      background: green;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-right: 10px;
+      margin-top: 5px;
+    }
+    .btn:hover {
+      background: darkgreen;
+    }
+    img.menu-img {
+      display: block;
+      margin: 5px 0;
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://1000logos.net/wp-content/uploads/2022/08/Grab-Logo.png" height="50px" width="90px">
+  <h1>GrabEats</h1>
+
+  <label for="store">Choose a Restaurant:</label>
+  <select id="store">
+    <option value="">-- Select Store --</option>
+    <option value="McDonalds">McDonalds</option>
+    <option value="Wendys">Wendys</option>
+    <option value="BurgerKing">Burger King</option>
+  </select><br/>
+
+  <form id="orderForm">
+    <fieldset id="menuSection" style="display:none;">
+      <legend>Menu Items</legend>
+      <div id="menuItems"></div>
+      <button type="button" class="btn" onclick="generateReceipt()">Generate Receipt</button>
+      <button type="button" class="btn" onclick="window.print()">Print Receipt</button>
+    </fieldset>
+  </form>
+
+  <div id="receipt" class="receipt" style="display:none;"></div>
+
+  <script>
+  const menus = {
+    McDonalds: [
+      { name: "Big Mac", price: 120, image: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1:product-header-mobile?wid=1313&hei=1313&dpr=off" },
+      { name: "McNuggets", price: 100, image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYh_xmGOjTgewhNg-y1fhSCl6v_WJygJFz5Q&s" },
+      { name: "Fries", price: 60, image: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_6053_LargeFries_1564x1564-1:nutrition-calculator-tile?resmode=sharp2" },
+      { name: "McSpaghetti", price: 80, image: "https://themcdomenuph.com/wp-content/uploads/2024/10/mcspaghetti-w-fries-meal-removebg-preview-670cd0381671f.webp" },
+      { name: "Coke", price: 45, image: "https://d3bjzufjcawald.cloudfront.net/public/web/2024-06-03/665d882937bd9/COKE-500x500px-500-500.jpg" }
+    ],
+    Wendys: [
+      { name: "Baconator", price: 150, image: "https://www.wendys.com/sites/default/files/styles/max_650x650/public/2021-05/baconator-144_medium_US_en.png?itok=H8sl3GsY" },
+      { name: "Frosty", price: 60, image: "https://fortune.com/img-assets/wp-content/uploads/2024/09/ChocolateFrosty.jpg" },
+      { name: "Nuggets", price: 95, image: "https://www.usatoday.com/gcdn/presto/2019/06/25/USAT/a1c17af3-4d95-4604-8be7-988cba21b5a3-Wendys_Spicy_Nuggets.jpg?crop=3487,4620,x1670,y0" },
+      { name: "Chicken Sandwich", price: 130, image: "https://media.cnn.com/api/v1/images/stellar/prod/201021184113-20201021-wendys-classic-chicken-sandwich.jpg?q=w_3000,h_1688,x_0,y_0,c_fill" },
+      { name: "Lemonade", price: 50, image: "https://www.thetakeout.com/images/c50e5b2ced41b0121badd33b8ccdc42b.jpg" }
+    ],
+    BurgerKing: [
+      { name: "Whopper", price: 140, image: "https://www.burgerking.ee/images/optimized/products/whopper-desktop-d8cee499661a700caa53bb89104c0e37.png" },
+      { name: "Chicken Fries", price: 100, image: "https://burgerking.com.mt/wp-content/uploads/2020/03/Chicken-fries-500-x-500.png" },
+      { name: "Onion Rings", price: 70, image: "https://burgerking.com.mt/wp-content/uploads/2020/03/or-site.png" },
+      { name: "Double Cheeseburger", price: 120, image: "https://www.burgerking.ee/images/optimized/products/dbl-cheeseburger-desktop-063f26e07302a7081e803e8a22be24f4.png" },
+      { name: "Shake", price: 60, image: "https://bk-latam-prod.s3.amazonaws.com/sites/burgerking.bs/files/Oreo_Shake_500x540_V5.png" }
+    ]
+  };
+
+  const storeSelect = document.getElementById("store");
+  const menuSection = document.getElementById("menuSection");
+  const menuItemsDiv = document.getElementById("menuItems");
+  const receiptDiv = document.getElementById("receipt");
+
+  storeSelect.addEventListener("change", () => {
+    const selectedStore = storeSelect.value;
+    if (!selectedStore) {
+      menuSection.style.display = "none";
+      return;
+    }
+
+    menuItemsDiv.innerHTML = "";
+    menus[selectedStore].forEach((item, i) => {
+      menuItemsDiv.innerHTML += `
+        <label style="margin-bottom: 15px;">
+          <div style="font-weight: bold;">${item.name} (₱${item.price})</div>
+          <img src="${item.image}" alt="${item.name} image" style="display:block; margin: 5px 0; width: 100px; height: 100px; object-fit: cover;">
+          <input type="number" min="0" value="0" name="item${i}" data-name="${item.name}" data-price="${item.price}">
+        </label>
+      `;
+    });
+
+    menuSection.style.display = "block";
+  });
+
+  function generateReceipt() {
+    const inputs = menuItemsDiv.querySelectorAll("input[type='number']");
+    let subtotal = 0;
+    let receiptHTML = `<h2>Receipt</h2><p>Date: ${new Date().toLocaleString()}</p><ul>`;
+
+    inputs.forEach(input => {
+      const quantity = parseInt(input.value);
+      const name = input.dataset.name;
+      const price = parseFloat(input.dataset.price);
+      if (quantity > 0) {
+        const total = price * quantity;
+        subtotal += total;
+        receiptHTML += `<li>${name} x ${quantity} = ₱${total.toFixed(2)}</li>`;
+      }
+    });
+
+    receiptHTML += `</ul>`;
+    const vat = subtotal * 0.12;
+    const total = subtotal + vat;
+
+    receiptHTML += `<p>Subtotal: ₱${subtotal.toFixed(2)}</p>`;
+    receiptHTML += `<p>VAT (12%): ₱${vat.toFixed(2)}</p>`;
+    receiptHTML += `<p><strong>Total: ₱${total.toFixed(2)}</strong></p>`;
+
+    receiptDiv.innerHTML = receiptHTML;
+    receiptDiv.style.display = "block";
+  }
+</script>
+
+</body>
+</html>

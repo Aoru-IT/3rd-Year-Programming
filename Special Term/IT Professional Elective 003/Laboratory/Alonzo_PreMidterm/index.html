@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <style>
+        *{
+            font-family: 'Quicksand', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        label{
+            display: block;
+        }
+
+        table{
+            border-style: solid;
+            padding: 10px 20px 10px 20px;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enrollment Form</title>
+</head>
+<body>
+
+    <form id="googleForm">
+        <label>Full-Name:</label>
+        <input type="text" id="fullName" placeholder="Juan Dela Cruz" required />
+
+
+        <label for="gender">Gender:</label>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="male" value="Male"/>
+        <label for="female">Female</label>
+        <input type="radio" name="gender" id="female" value="Female"/>
+     
+        <label for="birthday">Birthday:</label>
+        <input type="date" id="birthday"/>
+
+        <label for="address">Address:</label>
+        <textarea id="address"></textarea>
+
+
+        <table>
+            <tr>
+                <th colspan="2">Unit Rate per Year Level</th>
+            </tr>
+            <tr> 
+                <th>Year 1</th>
+                <td>₱3500</td>
+            </tr>
+            <tr>
+                <th>Year 2</th>
+                <td>₱4500</td>
+            </tr>
+            <tr>
+                <th>Year 3</th>
+                <td>₱5000</td>
+            </tr>
+            <tr>
+                <th>Year 4</th>
+                <td>₱4000</td>
+            </tr>
+        </table>
+
+        <label for="yearLevel">Select Year Level to Enroll:</label>
+        <label for="firstYear">First Year</label>
+        <input type="radio" name="yearLevel" id="firstYear" value="1st Year"/>
+        <label for="secondYear">Second Year</label>
+        <input type="radio" name="yearLevel" id="secondYear" value="2nd Year"/>
+        <label for="thirdYear">Third Year</label>
+        <input type="radio" name="yearLevel" id="thirdYear" value="3rd Year"/>
+        <label for="fourthYear">Fourth Year</label>
+        <input type="radio" name="yearLevel" id="fourthYear" value="4th Year"/>
+        
+        <div id="coursesSection"></div>
+
+
+
+    </form>
+    
+
+
+    <script>
+    const courses = {
+    FirstYearCourses: [
+      { id: "ITP01", name: "Introduction to Programming", units: 2, ticked: false },
+      { id: "OOP01", name: "Object Oriented Programming", units: 2,  ticked: false },
+      { id: "IPD01", name: "Basic Data Structures", units: 2,  ticked: false },
+      { id: "GPE01", name: "Physical Education 1", units: 1,  ticked: false },
+      { id: "MTL01", name: "Logic and General Mathematics", units: 3,  ticked: false }
+    ],
+    SecondYearCourses: [
+      { id: "ITP02", name: "Intermediate Programming", units: 2,  ticked: false },
+      { id: "HCI01", name: "Human and Computer Interaction", units: 2,  ticked: false },
+      { id: "IPD02", name: "Advanced Data Structures", units: 2, ticked: false },
+      { id: "GPE02", name: "Physical Education 2", units: 1,  ticked: false },
+      { id: "QTM01", name: "Quantitative Methods", units: 3,  ticked: false }
+    ],
+    ThirdYearCourses: [
+      { id: "APD01", name: "Application Development", units: 2,  ticked: false },
+      { id: "IMS01", name: "Multimedia Systems", units: 2,  ticked: false },
+      { id: "SIA01", name: "System Integration and Architecture", units: 2, ticked: false },
+      { id: "IAS01", name: "Information Assurance and Security", units: 3,  ticked: false },
+      { id: "CAP01", name: "Capstone Project 1", units: 3,  ticked: false }
+    ],
+    FourthYearCourses: [
+      { id: "CAP02", name: "Capstone Project 2", units: 3,  ticked: false },
+      { id: "ITD01", name: "Internet Tools and Development", units: 2,  ticked: false },
+      { id: "IGD01", name: "Graphics Design", units: 2, ticked: false },
+      { id: "PCM01", name: "Practicum", units: 3,  ticked: false },
+    ]
+  };
+
+        let fullName = "";
+        let gender = "";
+        let birthday = "";
+        let address = "";
+        let yearLevel = "";
+        let enrolledSubjects = "";
+        let unitsEnrolled = 0;
+        let totalTuitionFee = 0.00;
+
+
+        const yearSelect = document.getElementsByName("yearLevel");
+        const coursesSection = document.getElementById("coursesSection")
+
+        for(i in yearSelect){
+
+        }
+
+        yearSelect.addEventListener("change", () => {
+                const selectedYear = selectedYear.value;
+                coursesSection.innerHTML = "";
+                if(!selectedYear){
+                    coursesSection.style.display = "none";
+                }
+
+                
+                coursesSection.innerHTML += `<table>   
+                        <tr>
+                            <th colspan = "2">Select Courses to Enroll</th>
+                        </tr>
+                        <tr>
+                            <th>Name:</th>
+                            <th>Number of Units:</th>
+                            <th>Enroll:</th>
+                        </tr>`;
+                courses[selectedYear].forEach((item, i) => {
+                    
+                    coursesSection.innerHTML += `
+                        <tr>
+                            <td>${item.name}</td>
+                            <td>${item.units}</td>
+                            <td><input type="checkbox" id="${item.id}" name="courseList">
+                        </tr>
+                    
+                    `
+                });
+                 coursesSection.innerHTML += "</table>";
+                 coursesSection.style.display = "block";
+        });
+        
+       
+
+        // SCRIPT SUBMISSION TO GOOGLE SHEETS
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbyHcTNCnLIFi3c5vYmldx66mIGWWANjznzA6ieY8TnghMk9eMqPaSs1diTvqi9NqFZbYQ/exec';
+
+        const form = document.getElementById('googleForm');
+
+
+        //When the user clicks the submit button, this function runs.
+
+        form.addEventListener('submit', e => {
+
+            e.preventDefault(); //This stops the browser’s default action of reloading
+
+            fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+
+            .then(response => {
+
+                alert("Form submitted successfully!");
+
+                form.reset();
+
+            })
+
+            .catch(error => alert('Error!', error.message));
+
+        });
+
+
+    </script>
+</body>
+</html>
