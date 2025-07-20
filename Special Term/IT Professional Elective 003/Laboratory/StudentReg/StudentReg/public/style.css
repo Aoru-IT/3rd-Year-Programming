@@ -1,0 +1,79 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: gray;
+}
+
+body::before{
+    position: absolute;
+    content: "";
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("cmobackground.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: blur(8px);
+    z-index: -1;
+}
+
+main{
+    background-color: rgba(255,255,255, 0.6);
+    width: 97%; 
+    margin: 10em auto 2em auto; 
+    text-align:center;
+    padding-top: 5px;
+}
+
+main h1{
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 3px;
+    text-shadow: 0px 2px 3px rgba(0,0,0, 0.2);
+}
+
+main h3{
+    font-weight: 500;
+}
+
+.container {
+    background-color: white;
+    display: flex;
+
+    justify-content: center; 
+    gap: 20px;
+}
+
+.form-flex-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20em;
+    max-width: 900px;
+    padding: 25px 0px;
+    width: 100%;
+}
+
+.form-section {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    flex: 1;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.form-image {
+    margin-left: auto;
+    flex-shrink: 0;
+}

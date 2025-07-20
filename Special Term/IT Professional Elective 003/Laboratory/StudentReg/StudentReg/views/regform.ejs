@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+
+
+    <title>Register Student</title>
+</head>
+<body>
+
+    <header>
+
+    </header>
+
+    <!-- 📋 Registration Form -->
+    <!-- action="/register" → tells the form where to send the data -->
+    <!-- method="POST" → sends the data securely -->
+    <!-- enctype="multipart/form-data" → allows file (image) upload -->
+    <main>
+    <h1>BECOME ONE OF US!</h1>    
+    <h3>Volunteer Now!</h3>
+    <div class="container">
+        <form action="/register" method="POST" enctype="multipart/form-data">
+            <div class="form-flex-row">
+                <div class="form-section">
+                <div class="form-group">
+                <!-- 📸 Profile Picture input -->
+                <label>Personal Image:</label>
+                <input type="file" name="picture" accept="image/*">
+                <!-- name="picture" must match what multer is expecting in your POST route -->
+                </div>
+
+                <div class="form-group">
+                <!-- 🔢 Student Number input -->
+                <label>Student Number</label>
+                <input name="student_number" placeholder="Ex. 202200011" maxlength="9">
+                <!-- No type="text" is okay; browsers assume text by default -->
+                </div>
+
+                <div class="form-group">
+                <!-- 🧑 Name input -->
+                <label>Name</label>
+                <input name="name" placeholder="Ex. Juan Dela Cruz" maxlength="30">
+                </div>
+
+                <div class="form-group">
+                <!-- 📧 Email input (uses email format) -->
+                <label>Email</label>
+                <input type="email" name="email" placeholder="student_number@gmail.com">
+                <!-- ✅ Submit button -->
+                </div>
+                
+                <button type="submit">Register</button>
+            </div>
+            <div class="form-image">
+                <img src="CMOGroupPicture.png" width="400" height="300"><br>
+                <p>Lorem ipsum dolor sit amet</p>
+            </div>
+            </div>
+        </form>
+    </div>
+    </div>
+    </main>
+
+    <footer>
+    <!-- 🔗 Link to view all students -->
+    <a href="/students">Go to display students</a>
+    </footer>
+</body>
+</html>
